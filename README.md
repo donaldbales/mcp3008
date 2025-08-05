@@ -9,5 +9,5 @@ The data sheet for the ADS1015 can be found at: https://ww1.microchip.com/downlo
 
 SPI interface using GPIO 9, 10, 11, and in my code.py, 13 instead of 5 because an HX711 is using that pin.
 
-This is a beautiful product. It does exactly what the documentation does, without any hair pulling. :)
+This is a beautiful product. It does exactly what the documentation says, without any hair pulling. :)
 
